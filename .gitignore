@@ -1,0 +1,9 @@
+build
+*.o
+Makefile
+*~
+.vscode
+*.obj
+*.exe
+*.obj
+.DS*
