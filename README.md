@@ -18,7 +18,7 @@ The Snowflaker program has a limited interface consisting of the following keybo
 
 `1`     - Generate a new snowflake.
 
-`SPACE` - Export the current snowflake to a Houdini .geo file in the build folder.
+`SPACE` - Export the current snowflake to a Houdini .geo file in the build folder. NB: on Windows, the application and exported .geo files may be placed in a further subdirectory, depending on the build type.
 
 `ESC`   - Exit the program.
 
