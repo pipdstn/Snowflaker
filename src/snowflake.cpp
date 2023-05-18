@@ -11,6 +11,7 @@
 #include <sstream>
 #include <fstream>
 #include <iostream>
+#include <iomanip>
 
 #define PI 3.14159265
 
@@ -65,7 +66,7 @@ void Snowflake::update() {
         ngl::Vec3 reflectedPos = currentPos * S;
         m_particles.push_back(reflectedPos);
     }
-
+    
     num_particles +=1;
 }
 
