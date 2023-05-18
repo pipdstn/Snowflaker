@@ -1,3 +1,7 @@
+
+
+https://github.com/pipdstn/Snowflaker/assets/23411544/d0650ae3-4e5a-4861-bf5e-5be19ca62e71
+
 # Simulation & Rendering Project: Snowflake Simulator
 
 ## Building
